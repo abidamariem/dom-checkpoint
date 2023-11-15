@@ -1,0 +1,47 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "img": "./img/pc.webp",
+        "name": "PC HP i5 12G 500 SSD",
+        "price": 1990,
+        "quantity": 1,
+        "disponible":"En stock",
+        "subsum":1990,
+        "description": "PC HP <br> Processus : Snapdragon i5 10258 <br> Mémoire : 12 Go <br> Disque : 500 SSD <br> Graphique : Intel"
+      },
+      {
+        "id": 2,
+        "img":  "./img/item1.jfif",
+        "name": "PC ASUS i3 8G 1 Tera",
+        "price": 1579,
+        "quantity": 1,
+        "disponible":"En rupture",
+        "subsum":1579,
+        "description": "PC ASUS <br> Processus : Snapdragon i3 11748 <br> Mémoire : 8 Go <br> Disque : 1 Tera HDD <br> Graphique : Intel"
+
+      },
+      {
+        "id": 3,
+        "img": "./img/item2.jfif",
+        "name": "PC HP i7 16G 256 SSD + 1 Tera",
+        "price": 2458,
+        "quantity": 1,
+        "disponible":"En stock",
+        "subsum":2458,
+        "description": "PC HP <br> Processus : Snapdragon i7 12850 <br> Mémoire : 16 Go <br> Disque : 1 Tera HDD + 256 SSD <br> Graphique : Intel"
+
+      },
+      {
+        "id": 4,
+        "img": "./img/item3.jfif",
+        "name": "Accesoires",
+        "price": 199,
+        "quantity": 1,
+        "disponible":"En commande",
+        "subsum":199,
+        "description": "Haut parleurs 100 DBC"
+
+      }
+    ]
+  }
